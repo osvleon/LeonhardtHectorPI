@@ -1,2 +1,2 @@
 # LeonhardtHectorPI
-Ejercicio Git, GitHub
+Repositorio de prueba Proyecto Integrador 
